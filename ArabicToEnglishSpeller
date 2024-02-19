@@ -37,6 +37,7 @@ letters_mapping = {
     'ء': 'a',
     'ى': 'a',
     'ئ': 'i',
+    'ؤ': 'u',
 }
 
 class FeatureProcessor(object):
